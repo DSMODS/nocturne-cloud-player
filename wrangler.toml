@@ -1,0 +1,7 @@
+name = "nocturne-cloud-player"
+compatibility_date = "2026-11-18"
+pages_build_output_dir = "./"
+
+[[r2_buckets]]
+binding = "MUSIC_BUCKET"
+bucket_name = "nocturne-music"
